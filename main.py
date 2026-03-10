@@ -9,3 +9,4 @@ class Window():
         self.__running = False
 
 def main():
+    pass
